@@ -15,13 +15,13 @@ var fruit_con;
 
 var bg_img;
 var food;
-var rabbit;
+var bunny_img;
 
 function preload()
 {
   bg_img = loadImage('background.png');
   food = loadImage('melon.png');
-  rabbit = loadImage('Rabbit-01.png');
+  bunny_img = loadImage('Rabbit-01.png');
 }
 
 function setup() 
